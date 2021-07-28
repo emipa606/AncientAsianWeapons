@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Arrow_ChuKoNu.label>諸葛弩箭矢</Arrow_ChuKoNu.label>
+  <Bow_ChuKoNu.label>諸葛弩</Bow_ChuKoNu.label>
+  <Bow_ChuKoNu.description>諸葛弩是公元二世紀末中國發明的一種連射弩，一次可發射三發箭矢。</Bow_ChuKoNu.description>
+  <Bullet_ShouChong.label>手銃子彈</Bullet_ShouChong.label>
+  <Gun_ShouChong.label>手銃</Gun_ShouChong.label>
+  <Gun_ShouChong.description>手銃是中國的古老火器。可能是最古老的手持式火藥武器，同時也是最簡單的早期槍械，但大多數需要從槍口處點燃，不具任何形式的備激發裝置。</Gun_ShouChong.description>
+  <Arrow_Hwacha.label>火廂車箭矢</Arrow_Hwacha.label>
+  <Gun_Hwacha.label>火廂車</Gun_Hwacha.label>
+  <Gun_Hwacha.description>火廂車是由高麗發展的多重火箭發射器，在1590年代部署於高麗抵抗日本侵略戰爭中。可一次發射多發神機箭（一種由火藥推進的箭矢），</Gun_Hwacha.description>
+  <Projectile_Shuriken.label>手裏劍</Projectile_Shuriken.label>
+  <Shuriken.label>手裏劍</Shuriken.label>
+  <Shuriken.description>手裏劍是一種傳統日本暗器，通常投擲使用，有時也可以用來刺或削割。</Shuriken.description>
+  <Proj_ZhenTianLei.label>震天雷</Proj_ZhenTianLei.label>
+  <ZhenTianLei.label>震天雷</ZhenTianLei.label>
+  <ZhenTianLei.description>震天雷，12至13世紀宋金時期中國的早期形式的炸彈或手榴彈。以鑄鐵外殼填充火藥製成。</ZhenTianLei.description>
+  <ZhenTianLei.verbs.0.label>投擲震天雷</ZhenTianLei.verbs.0.label>
+</LanguageData>

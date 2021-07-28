@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeWeapon_Katana.label>武士刀</MeleeWeapon_Katana.label>
+  <MeleeWeapon_Katana.description>武士刀是一种传统日本刀，由日本武士使用。</MeleeWeapon_Katana.description>
+  <MeleeWeapon_Jian.label>剑</MeleeWeapon_Jian.label>
+  <MeleeWeapon_Jian.description>剑，过去2500年间中国使用的双刃直剑。</MeleeWeapon_Jian.description>
+  <MeleeWeapon_MonkSpade.label>禅杖</MeleeWeapon_MonkSpade.label>
+  <MeleeWeapon_MonkSpade.description>禅杖，又称少林铲，中国长柄武器，由一根长干、一端的扁铲形刀刃和另一端的新月形刀刃组成。两端的刀刃都非常锋利。</MeleeWeapon_MonkSpade.description>
+  <MeleeWeapon_Kanabo.label>日本金棒</MeleeWeapon_Kanabo.label>
+  <MeleeWeapon_Kanabo.description>日本金棒是一种有尖刺或瘤状突起的棍棒，由日本武士及其侍从使用。</MeleeWeapon_Kanabo.description>
+  <MeleeWeapon_Ninjato.label>忍者刀</MeleeWeapon_Ninjato.label>
+  <MeleeWeapon_Ninjato.description>忍者刀据说是日本忍者的首选武器。</MeleeWeapon_Ninjato.description>
+  <MeleeWeapon_FengHuoLun.label>风火轮</MeleeWeapon_FengHuoLun.label>
+  <MeleeWeapon_FengHuoLun.description>风火轮，一种近战武器，成对使用，与中国武术，如八卦掌和太极拳，有关。外观上类似环刃。</MeleeWeapon_FengHuoLun.description>
+  <MeleeWeapon_Dao.label>刀</MeleeWeapon_Dao.label>
+  <MeleeWeapon_Dao.description>刀，单刃中国刀，主要用于劈砍。</MeleeWeapon_Dao.description>
+  <MeleeWeapon_Yari.label>日本枪</MeleeWeapon_Yari.label>
+  <MeleeWeapon_Yari.description>日本枪特指传统日本长矛。</MeleeWeapon_Yari.description>
+  <MeleeWeapon_Kabutowari.label>兜割</MeleeWeapon_Kabutowari.label>
+  <MeleeWeapon_Kabutowari.description>兜割也被称作鉢割，一种小刀样式的武器，在许多方面类似十手（江户时代日本警察使用武器）。这种武器通常被日本武士绑在手臂上。</MeleeWeapon_Kabutowari.description>
+  <MeleeWeapon_Naginata.label>薙刀</MeleeWeapon_Naginata.label>
+  <MeleeWeapon_Naginata.description>薙刀是多种日本传统长枪中的一种。薙刀最初由日本的武士，以及足軽（步兵）和僧兵（武士僧侣）使用。</MeleeWeapon_Naginata.description>
+</LanguageData>
