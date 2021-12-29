@@ -307,5 +307,6 @@
     <smeltProducts>
       <Steel>10</Steel>
     </smeltProducts>
+    <smeltable>true</smeltable>
   </ThingDef>
 </Defs>
