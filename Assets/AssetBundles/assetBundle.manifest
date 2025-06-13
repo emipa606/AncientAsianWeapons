@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4060490247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68db5a85d454f28ef6da9969e58517c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 68db5a85d454f28ef6da9969e58517c7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Dao.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/ChuKoNu.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Projectile/ZhenTianLei.png
+- Assets/Data/Mlie.AncientAsianWeapons/Sounds/BlowGun/BlowGun.ogg
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Kanabo.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Yari.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/BlowGun.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Projectile/Shuriken/Shuriken1.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Projectile/Shuriken/Shuriken2.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Naginata.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Kabutowari.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Ninjato.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Jian.png
+- Assets/Data/Mlie.AncientAsianWeapons/Sounds/ShouChong/ShouChong.ogg
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/ZhenTianLei.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Projectile/PoisonedDart.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Shuriken.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/ShouChong.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Projectile/Shuriken/Shuriken3.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/MelonHammer.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/FengHuoLun.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Projectile/Arrow_Hwacha.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/MonkSpade.png
+- Assets/Data/Mlie.AncientAsianWeapons/Sounds/Hwacha/Hwacha.ogg
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Hwacha.png
+- Assets/Data/Mlie.AncientAsianWeapons/Textures/Things/Item/Equipment/Katana.png
+Dependencies: []

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dao -->
+  <MeleeWeapon_Dao.label>dao</MeleeWeapon_Dao.label>
+  <!-- EN: Dao are single-edged Chinese swords, primarily used for slashing and chopping. -->
+  <MeleeWeapon_Dao.description>Dao are single-edged Chinese swords, primarily used for slashing and chopping.</MeleeWeapon_Dao.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Dao.tools.handle.label>handle</MeleeWeapon_Dao.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Dao.tools.point.label>point</MeleeWeapon_Dao.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Dao.tools.edge.label>edge</MeleeWeapon_Dao.tools.edge.label>
+  <!-- EN: Feng-Huo-Lun -->
+  <MeleeWeapon_FengHuoLun.label>Feng-Huo-Lun</MeleeWeapon_FengHuoLun.label>
+  <!-- EN: Feng-huo-lun, or Wind-and-fire wheels, are melee weapons, wielded as a pair, associated with Chinese martial arts such as baguazhang and taijiquan. Visually, they are similar to chakrams. -->
+  <MeleeWeapon_FengHuoLun.description>Feng-huo-lun, or Wind-and-fire wheels, are melee weapons, wielded as a pair, associated with Chinese martial arts such as baguazhang and taijiquan. Visually, they are similar to chakrams.</MeleeWeapon_FengHuoLun.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_FengHuoLun.tools.handle.label>handle</MeleeWeapon_FengHuoLun.tools.handle.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_FengHuoLun.tools.edge.label>edge</MeleeWeapon_FengHuoLun.tools.edge.label>
+  <!-- EN: jian -->
+  <MeleeWeapon_Jian.label>jian</MeleeWeapon_Jian.label>
+  <!-- EN: The jian is a double-edged straight sword used during the last 2,500 years in China. -->
+  <MeleeWeapon_Jian.description>The jian is a double-edged straight sword used during the last 2,500 years in China.</MeleeWeapon_Jian.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Jian.tools.handle.label>handle</MeleeWeapon_Jian.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Jian.tools.point.label>point</MeleeWeapon_Jian.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Jian.tools.edge.label>edge</MeleeWeapon_Jian.tools.edge.label>
+  <!-- EN: kabutowari -->
+  <MeleeWeapon_Kabutowari.label>kabutowari</MeleeWeapon_Kabutowari.label>
+  <!-- EN: The Kabutowari also known as hachiwari, was a type of knife-shaped weapon, resembling a jitte in many respects. This weapon was carried as a side-arm by the samurai class of feudal Japan. -->
+  <MeleeWeapon_Kabutowari.description>The Kabutowari also known as hachiwari, was a type of knife-shaped weapon, resembling a jitte in many respects. This weapon was carried as a side-arm by the samurai class of feudal Japan.</MeleeWeapon_Kabutowari.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Kabutowari.tools.handle.label>handle</MeleeWeapon_Kabutowari.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Kabutowari.tools.blade.label>blade</MeleeWeapon_Kabutowari.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Kabutowari.tools.point.label>point</MeleeWeapon_Kabutowari.tools.point.label>
+  <!-- EN: kanabo -->
+  <MeleeWeapon_Kanabo.label>kanabo</MeleeWeapon_Kanabo.label>
+  <!-- EN: The kanabo was a spiked or knobbed club or truncheon used in feudal Japan as a weapon by samurai and their retainers. -->
+  <MeleeWeapon_Kanabo.description>The kanabo was a spiked or knobbed club or truncheon used in feudal Japan as a weapon by samurai and their retainers.</MeleeWeapon_Kanabo.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Kanabo.tools.handle.label>handle</MeleeWeapon_Kanabo.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Kanabo.tools.head.label>head</MeleeWeapon_Kanabo.tools.head.label>
+  <!-- EN: katana -->
+  <MeleeWeapon_Katana.label>katana</MeleeWeapon_Katana.label>
+  <!-- EN: katana were one of the traditionally made Japanese swords that were used by the samurai of feudal Japan. -->
+  <MeleeWeapon_Katana.description>katana were one of the traditionally made Japanese swords that were used by the samurai of feudal Japan.</MeleeWeapon_Katana.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Katana.tools.handle.label>handle</MeleeWeapon_Katana.tools.handle.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Katana.tools.edge.label>edge</MeleeWeapon_Katana.tools.edge.label>
+  <!-- EN: monk's spade -->
+  <MeleeWeapon_MonkSpade.label>monk's spade</MeleeWeapon_MonkSpade.label>
+  <!-- EN: A monk's spade, also called a Shaolin Spade, is a Chinese pole weapon consisting of a long pole with a flat spade-like blade on one end and a smaller crescent shaped blade on the other. Neither blade was designed to be sharpened. -->
+  <MeleeWeapon_MonkSpade.description>A monk's spade, also called a Shaolin Spade, is a Chinese pole weapon consisting of a long pole with a flat spade-like blade on one end and a smaller crescent shaped blade on the other. Neither blade was designed to be sharpened.</MeleeWeapon_MonkSpade.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_MonkSpade.tools.handle.label>handle</MeleeWeapon_MonkSpade.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_MonkSpade.tools.head.label>head</MeleeWeapon_MonkSpade.tools.head.label>
+  <!-- EN: naginata -->
+  <MeleeWeapon_Naginata.label>naginata</MeleeWeapon_Naginata.label>
+  <!-- EN: The naginata is one of several varieties of traditionally made Japanese blades in the form of a pole weapon. Naginata were originally used by the samurai class of feudal Japan, as well as by ashigaru (foot soldiers) and sohei (warrior monks). -->
+  <MeleeWeapon_Naginata.description>The naginata is one of several varieties of traditionally made Japanese blades in the form of a pole weapon. Naginata were originally used by the samurai class of feudal Japan, as well as by ashigaru (foot soldiers) and sohei (warrior monks).</MeleeWeapon_Naginata.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Naginata.tools.handle.label>handle</MeleeWeapon_Naginata.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Naginata.tools.head.label>head</MeleeWeapon_Naginata.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Naginata.tools.edge.label>edge</MeleeWeapon_Naginata.tools.edge.label>
+  <!-- EN: ninjato -->
+  <MeleeWeapon_Ninjato.label>ninjato</MeleeWeapon_Ninjato.label>
+  <!-- EN: The ninjato are allegedly the preferred weapon that the Shinobi of feudal Japan carried. -->
+  <MeleeWeapon_Ninjato.description>The ninjato are allegedly the preferred weapon that the Shinobi of feudal Japan carried.</MeleeWeapon_Ninjato.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Ninjato.tools.handle.label>handle</MeleeWeapon_Ninjato.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Ninjato.tools.blade.label>blade</MeleeWeapon_Ninjato.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Ninjato.tools.point.label>point</MeleeWeapon_Ninjato.tools.point.label>
+  <!-- EN: yari -->
+  <MeleeWeapon_Yari.label>yari</MeleeWeapon_Yari.label>
+  <!-- EN: Yari is the term for one of the traditionally made Japanese blades in the form of a spear. -->
+  <MeleeWeapon_Yari.description>Yari is the term for one of the traditionally made Japanese blades in the form of a spear.</MeleeWeapon_Yari.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Yari.tools.handle.label>handle</MeleeWeapon_Yari.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Yari.tools.head.label>head</MeleeWeapon_Yari.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Yari.tools.edge.label>edge</MeleeWeapon_Yari.tools.edge.label>
+</LanguageData>
